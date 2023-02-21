@@ -1,0 +1,28 @@
+/* .c1{ */
+	
+	
+/* height:50px; */
+/* background:blue;	 */
+/* } */
+
+/* .c2{ */
+	
+/* height:50px; */
+/* background:red; */
+/* border:2px solid black;	 */
+	
+/* } */
+
+.container{
+	
+	border:2px solid black;
+}
+.row{
+	
+	border:5px solid red;
+	
+}
+.col-md{
+	
+	border:2px solid blue;
+}
